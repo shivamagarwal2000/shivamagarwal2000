@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam agarwal
 - 👀 I’m interested in programming and financial markets
-- 🌱 I’m currently learning Mini Zinc and contraint programming
+- 🌱 I’m currently learning Mini Zinc and constraint programming
 - 📫 How to reach me, email - shivam2003agarwal@gmail.com
 
 <!---
